@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<!-- Error Text -->
+    <string name="approve popup">İşlem Başarılı Olarak Tamamlandı.</string>
+    <string name="assign to pool popup">Bekleyenler listesine geri atanmıştır.</string>
+    <string name="segment free prepaid">Segment Free Prepaid</string>
+</resources>
+

@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "pageInfo": {
+        "pageName": "biletSecim",
+        "parent": "home",
+        "waitelement": ""
+      },
+      "elements": [
+        {
+          "aramayiDuzenle": "//span[contains(text(), 'Aramayı Düzenle')]"
+        },
+        {
+          "aramayiFavorilereEkle": "//button[contains(text(), 'Aramayı Favorilere Ekle')]"
+        }
+      ]
+    }
+  ]
+}

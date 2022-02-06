@@ -1,0 +1,1 @@
+{"uuid":"451aa990-096a-47db-b506-366f8b923900","name":"Scenario: Login","children":["b4ce3cdc-3502-46b4-8d4c-3dbb4ffab9a0"],"befores":[{"name":"StepDefs.setReportName(Scenario)","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1644164551817,"stop":1644164551835}],"afters":[],"start":1644164551815,"stop":1644164551867}

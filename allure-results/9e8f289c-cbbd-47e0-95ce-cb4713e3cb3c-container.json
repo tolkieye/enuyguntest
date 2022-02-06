@@ -1,0 +1,1 @@
+{"uuid":"9e8f289c-cbbd-47e0-95ce-cb4713e3cb3c","name":"Scenario: Nereden - Nereye","children":["3806aa43-7d01-4a7e-b6d9-7953e5860b93"],"befores":[{"name":"StepDefs.setReportName(Scenario)","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1644166706599,"stop":1644166706615}],"afters":[],"start":1644166706598,"stop":1644166754763}

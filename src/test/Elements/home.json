@@ -1,0 +1,64 @@
+{
+  "pages": [
+    {
+      "pageInfo": {
+        "pageName": "home",
+        "parent": "",
+        "waitelement": ""
+      },
+      "elements": [
+        {
+          "neredenTxt": "//label[contains(text(), 'Nereden')]"
+        },
+        {
+          "neredenInput": "OriginInput"
+        },
+        {
+          "SAW": "//span[contains(text(), 'Sabiha Gökçen Havalimanı')]"
+        },
+        {
+          "nereyeTxt": "//label[contains(text(), 'Nereye')]"
+        },
+        {
+          "nereyeInput": "DestinationInput"
+        },
+        {
+          "ADB": "//span[contains(text(), 'Adnan Menderes Havalimanı')]"
+        },
+        {
+          "gidisTarihiTxt": "//label[contains(text(), 'Gidiş Tarihi')]"
+        },
+        {
+          "gidisTarihi": "DepartureDate"
+        },
+        {
+          "gidisTarihSec": "//*[@id='FlightSearchForm']/div/div[2]/div[1]/div[2]/div/div/div[2]/div/div/div/div[2]/div[2]/div/div[2]/div/table/tbody/tr[3]/td[3]"
+        },
+        {
+          "donusTarihiTxt": "//label[contains(text(), 'Dönüş Tarihi')]"
+        },
+        {
+          "donusTarihi": "ReturnDate"
+        },
+        {
+          "donusTarihSec": "//*[@id='FlightSearchForm']/div/div[2]/div[2]/div[2]/div/div/div[2]/div/div/div/div[2]/div[2]/div/div[2]/div/table/tbody/tr[5]/td[4]"
+        },
+        {
+          "aktarmasiz": "transitFilter"
+        },
+        {
+          "yolcuSecim": "//*[@id='FlightSearchForm']/div[1]/div[3]/div[1]/button"
+        },
+        {
+          "yetiskinArttir": "//*[@id='FlightSearchForm']/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/button[2]"
+        },
+        {
+          "biletBulBtn": "//span[contains(text(), 'Ucuz bilet bul')]"
+        },
+        {
+          "aramayiDuzenle": "//span[contains(text(), 'Aramayı Düzenle')]"
+        }
+      ]
+    }
+  ]
+}

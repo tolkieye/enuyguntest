@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<!-- <listeners> <listener class-name="org.uncommons.reportng.HTMLReporter"></listener> 
+		</listeners> -->
+	<parameter name="VIDEO_RECORDING" value="false"/>
+	<parameter name="CalendarName" value="Calendar.xlsx"/>
+	<parameter name="browserName" value="chrome"/>
+
+	<!-- Cucumber Test -->
+	<test name="Test" enabled="true">
+		<classes>
+			<class name="com.project.tests.TestRunner"/>
+		</classes>
+	</test>
+	<!-- Cucumber Test -->
+
+	</suite> 

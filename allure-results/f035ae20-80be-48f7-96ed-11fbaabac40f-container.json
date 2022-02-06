@@ -1,0 +1,1 @@
+{"uuid":"f035ae20-80be-48f7-96ed-11fbaabac40f","name":"Scenario: Bilet","children":["2e85e339-8ddc-4abc-9650-fd8497b85732"],"befores":[{"name":"StepDefs.setReportName(Scenario)","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1644171374181,"stop":1644171374197}],"afters":[],"start":1644171374179,"stop":1644171410772}
